@@ -4,6 +4,12 @@ Selamat Hari Valentine! 🎉🎉
 
 **My Sweet Valentine** adalah situs web interaktif yang dirancang untuk memberikan pengalaman spesial kepada orang yang kita sayangi pada Hari Valentine. Dengan latar musik romantis, animasi hati yang mengambang, kenangan indah, dan pesan pribadi, situs ini memberikan kejutan dan cinta yang mendalam.
 
+# Demo
+
+https://codepen.io/sirjeczh/full/OPJPBOW (Rekomendasi)
+
+https://codepen.io/sirjeczh/pen/OPJPBOW
+
 ## Fitur Utama
 
 - **Login Page**: Halaman login untuk memasukkan username dan password dengan desain yang menarik.
